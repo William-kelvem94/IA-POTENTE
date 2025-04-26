@@ -1,0 +1,7 @@
+transformers==4.40.0
+datasets==2.18.0
+accelerate==0.29.3
+peft==0.10.0
+scikit-learn==1.4.0
+pandas==2.2.1
+tokenizers>=0.19.1

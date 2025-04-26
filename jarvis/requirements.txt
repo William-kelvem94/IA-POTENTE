@@ -1,0 +1,7 @@
+transformers==4.39.3
+torch
+pygame
+edge-tts
+pyaudio
+SpeechRecognition
+colorama
